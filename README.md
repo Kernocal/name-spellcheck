@@ -5,7 +5,8 @@ Name Spellchecker is a small flask script intended to help determine how to spel
 E.g input Hrown -> output Brown as it is a very popular last name with only 1 step/mistake away.
 
 # Example
-Using my first name [Sonny](screenshot/exampleSonny.png "First Name Example")
+Using my first name ![Sonny](screenshot/exampleSonny.png "First Name Example")
+
 
 
 # Usage
