@@ -93,5 +93,5 @@ messages = {
 sym_spell_first = symspellpy.SymSpell()
 sym_spell_last = symspellpy.SymSpell()
 
-sym_spell_first.load_dictionary("site/data/firsts.csv", term_index=0, count_index=1, separator=",", encoding="utf8")
-sym_spell_last.load_dictionary("site/data/lasts.csv", term_index=0, count_index=1, separator=",", encoding="utf8")
+sym_spell_first.load_dictionary("firsts.csv", term_index=0, count_index=1, separator=",", encoding="utf8")
+sym_spell_last.load_dictionary("lasts.csv", term_index=0, count_index=1, separator=",", encoding="utf8")
