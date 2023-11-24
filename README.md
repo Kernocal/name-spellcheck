@@ -6,6 +6,7 @@ E.g input Hrown -> output Brown as it is a very popular last name with only 1 st
 
 # Example
 Using my first name 
+
 ![Sonny](screenshot/exampleSonny.png "First Name Example")
 
 Hosted at https://kernocal.eu.pythonanywhere.com/search it sometimes goes offline but you never know!
