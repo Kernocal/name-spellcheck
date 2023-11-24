@@ -5,8 +5,10 @@ Name Spellchecker is a small flask script intended to help determine how to spel
 E.g input Hrown -> output Brown as it is a very popular last name with only 1 step/mistake away.
 
 # Example
-Using my first name ![Sonny](screenshot/exampleSonny.png "First Name Example")
+Using my first name 
+![Sonny](screenshot/exampleSonny.png "First Name Example")
 
+Hosted at https://kernocal.eu.pythonanywhere.com/search it sometimes goes offline but you never know!
 
 
 # Usage
@@ -18,5 +20,3 @@ data is an array of results, ordered by closeness then count.
 each result is of the form {closeness: non negative int, count: int, name: string}
 
 data can also be a string, if there's an error.
-
-Hosted at https://kernocal.eu.pythonanywhere.com/search sometimes goes offline but you never know!
